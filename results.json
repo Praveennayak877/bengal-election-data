@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T04:47:31.021Z",
+  "lastUpdated": "2026-05-01T11:32:05.374Z",
   "electionName": "West Bengal Assembly Elections 2026",
   "totalSeats": 294,
   "resultsStatus": "counting",
@@ -9,16 +9,16 @@
     {
       "name": "All India Trinamool Congress",
       "shortName": "AITC",
-      "leading": 20,
-      "won": 11,
+      "leading": 0,
+      "won": 0,
       "color": "#20C05C",
       "alliancePartner": null
     },
     {
       "name": "Bharatiya Janata Party",
       "shortName": "BJP",
-      "leading": 10,
-      "won": 10,
+      "leading": 0,
+      "won": 0,
       "color": "#FF9933",
       "alliancePartner": null
     },
@@ -26,7 +26,7 @@
       "name": "Indian National Congress",
       "shortName": "INC",
       "leading": 0,
-      "won": 1,
+      "won": 0,
       "color": "#19AAED",
       "alliancePartner": "Left Front"
     },
@@ -34,7 +34,7 @@
       "name": "Communist Party of India (Marxist)",
       "shortName": "CPI(M)",
       "leading": 0,
-      "won": 1,
+      "won": 0,
       "color": "#ED1B24",
       "alliancePartner": "Left Front"
     },
@@ -42,7 +42,7 @@
       "name": "All India Forward Bloc",
       "shortName": "AIFB",
       "leading": 0,
-      "won": 1,
+      "won": 0,
       "color": "#DC143C",
       "alliancePartner": "Left Front"
     },
@@ -50,7 +50,7 @@
       "name": "Revolutionary Socialist Party",
       "shortName": "RSP",
       "leading": 0,
-      "won": 1,
+      "won": 0,
       "color": "#FF4500",
       "alliancePartner": "Left Front"
     },
@@ -66,16 +66,16 @@
       "name": "Others",
       "shortName": "OTH",
       "leading": 0,
-      "won": 2,
+      "won": 0,
       "color": "#A9A9A9",
       "alliancePartner": null
     }
   ],
   "districts": [],
   "summary": {
-    "totalConstituenciesDeclared": 27,
-    "totalConstituenciesCounting": 30,
-    "totalConstituenciesAwaiting": 237,
+    "totalConstituenciesDeclared": 0,
+    "totalConstituenciesCounting": 0,
+    "totalConstituenciesAwaiting": 294,
     "leadingAlliance": "AITC",
     "winningAlliance": null
   },
@@ -83,6 +83,6 @@
     "dataVersion": "1.0",
     "sourceAttribution": "Election Commission of India",
     "disclaimer": "Updated manually via PDFMitra updater tool",
-    "nextUpdate": "2026-05-01T05:17:31.021Z"
+    "nextUpdate": "2026-05-01T12:02:05.374Z"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T11:32:05.374Z",
+  "lastUpdated": "2026-05-04T03:02:14.772Z",
   "electionName": "West Bengal Assembly Elections 2026",
   "totalSeats": 294,
   "resultsStatus": "counting",
@@ -9,7 +9,7 @@
     {
       "name": "All India Trinamool Congress",
       "shortName": "AITC",
-      "leading": 0,
+      "leading": 68,
       "won": 0,
       "color": "#20C05C",
       "alliancePartner": null
@@ -17,7 +17,7 @@
     {
       "name": "Bharatiya Janata Party",
       "shortName": "BJP",
-      "leading": 0,
+      "leading": 80,
       "won": 0,
       "color": "#FF9933",
       "alliancePartner": null
@@ -74,15 +74,15 @@
   "districts": [],
   "summary": {
     "totalConstituenciesDeclared": 0,
-    "totalConstituenciesCounting": 0,
-    "totalConstituenciesAwaiting": 294,
-    "leadingAlliance": "AITC",
+    "totalConstituenciesCounting": 148,
+    "totalConstituenciesAwaiting": 146,
+    "leadingAlliance": "BJP",
     "winningAlliance": null
   },
   "metadata": {
     "dataVersion": "1.0",
     "sourceAttribution": "Election Commission of India",
     "disclaimer": "Updated manually via PDFMitra updater tool",
-    "nextUpdate": "2026-05-01T12:02:05.374Z"
+    "nextUpdate": "2026-05-04T03:32:14.772Z"
   }
 }
